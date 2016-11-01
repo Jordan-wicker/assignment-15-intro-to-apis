@@ -1,0 +1,23 @@
+*{ box-sizing: border-box }
+
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+   background: url('../images/flag-pic.jpg') center center no-repeat;
+   background-size: cover;
+
+}
+
+.congress-container {
+   .first-thumbs{
+         color: #ECF0F1;
+         background: #2C3E50;
+         padding-left: 10px;
+         padding-right: 10px;
+         padding-top: 2px;
+         padding-bottom: 2px;
+      }
+}
